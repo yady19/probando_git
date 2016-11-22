@@ -21,6 +21,7 @@ public class Hola_gits {
         String nom;
         nom=JOptionPane.showInputDialog("Ingrese su nombre: ");
         JOptionPane.showMessageDialog(null, "Hola "+nom+" bienvenida(o) a Git.");
+        JOptionPane.showMessageDialog(null, "Hola ya hice un cambio desde git hub");
     }
     
 }
